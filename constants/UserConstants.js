@@ -1,0 +1,1 @@
+export const USER_URL = 'http://demo8680426.mockable.io/';
